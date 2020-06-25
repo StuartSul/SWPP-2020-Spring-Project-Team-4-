@@ -6,17 +6,8 @@
 
 # Project
 Makefile
-out
-
-# Binaries
-obj
-*bin*
-*sf-*
 
 # Test
-test
-test.sh
-*csmith*
 *platform*
 input.ll
 .tmp.s

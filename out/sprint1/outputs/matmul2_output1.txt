@@ -1,0 +1,1 @@
+Runtime error at ./out/sprint1/matmul2.s:188: accessing non-allocated memory
